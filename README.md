@@ -1,6 +1,7 @@
 <h3>Clinic Date é um software especializado em agendamento de consultas, onde é possível realizar cadastros, listagens e relatórios, possuindo uma agenda na qual facilita o controle das consultas. </h3>
 
-<h4>Imagens do projeto: </h4>
+<h4> Projeto desenvolvido em HTML, CSS, MySQL (Banco de dados) e PHP.
+Imagens do projeto: </h4>
 
 ![Login](https://user-images.githubusercontent.com/55213140/132969933-3e174f4b-ce88-4f68-83e3-43d90add3993.png)
 
